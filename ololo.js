@@ -1,1 +1,2 @@
 alert('hi')
+confirm("ahahahah")
